@@ -2,5 +2,4 @@
 - CREATER OF SC0PEX EXPLOIT
 - ENJOYS CODING IN MANY LANGUAGES
 
-- [!] SC0PEX IS DOWN! [!]
-- We are working on fixing the problem.
+[!] SC0PEX IS DOWN! [!]
